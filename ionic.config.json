@@ -1,0 +1,8 @@
+{
+  "name": "Let's Begin!",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "1905b553"
+}
